@@ -99,13 +99,13 @@ Event handling is a crucial aspect of GUI programming, and ActionListener interf
 ## 2.3 CSV File Processing and Scoring Algorithm:
 The provided CSV file containing NBA player statistics for the 2022-2023 season. The heart of the operation lies in the PlayerCreator class, which diligently reads the CSV file, parsing each line to extract crucial player details like name, team, position, and performance metrics by using BufferedReader.2 This class parses the player objects coming from the csv file according to their positions and determines which subclass of the player class they belong to. Also, while reading the file PlayerCreator undertake the duplicate entries by selecting TOTs.(Figure 1) Additionally, when the entire file is processed, it returns an arraylist with all the players. 
 
-![Figure 1](Figure1.png)
+![Figure 1](comp_project/src/readme/Figure1.png)
 
 *Figure 1*
 
 The scoring logic is in the weightCalculator method, where a weighted value is computed for specific player statistics. This calculated score considers various factors, such as points, total rebounds, assists, blocks, and steals. Each category is assigned a specific weight (N) to reflect its relative importance in player performance assessment.(Figure 2) The algorithm then introduces an element of randomness by generating a random double within a specified range. In this way, when each player is created, the score is generated randomly.
 
-![Figure 2](Figure2.png)
+![Figure 2](comp_project/src/readme/Figure2.png)
 
 *Figure 2*
 
@@ -114,7 +114,7 @@ The DraftingPlayers class implements a comprehensive player drafting algorithm f
 
 For the user's team, player selection is user-driven, allowing the user to choose a player based on displayed information in a table. The algorithm ensures that the user's team adheres to roster conditions, rejecting selections that do not satisfy the requirement of having players for all five positions. In contrast, for other teams, the algorithm employs a randomized approach to player selection. The randomness is introduced differently in the first five rounds compared to subsequent rounds, adding variety to the drafting process. In the initial rounds, teams are assigned players based on their preferred positions, enhancing strategic diversity in team composition. As the drafting progresses beyond the fifth round, randomness is introduced without considering position preferences, further diversifying team compositions.(Figure 3)
 
-![Figure 3](Figure3.png)
+![Figure 3](comp_project/src/readme/Figure3.png)
 
 *Figure 3*
 
