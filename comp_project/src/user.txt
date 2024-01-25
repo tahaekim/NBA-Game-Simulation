@@ -1,0 +1,7 @@
+tahaekim,A@a210620,aekm@gmail.com,Ahmet,Ekim,28,/Users/a.tahaekim/git/Comp132-Project/comp_project/src/profile photos/a.jpg
+cemrecsr,A@a210620,cemre@gmail.com,Cemre,Cesur,25,/Users/a.tahaekim/git/Comp132-Project/comp_project/src/profile photos/default.jpg
+nazimata,Mertemin2003@,nata21@ku.edu.tr,Nazim,Ata,31,/Users/a.tahaekim/git/Comp132-Project/comp_project/src/profile photos/l.jpg
+hasan,Hasan61#,hasan@gmail.com,Hasan,Gunes,35,/Users/a.tahaekim/git/Comp132-Project/comp_project/src/profile photos/k.jpg
+bymanyaq,Hanbayram#61,han@gmail.com,Bedirhan,Bayram,20,/Users/a.tahaekim/git/Comp132-Project/comp_project/src/profile photos/m.jpg
+talha,Talha#25,talha21@ku.edu.tr,Talha,Saritepe,20,/Users/a.tahaekim/git/Comp132-Project/comp_project/src/profile photos/c.jpg
+vahideh,A1234567$,vahideh@gmail.com,vahideh,abc,25,/Users/a.tahaekim/git/Comp132-Project/comp_project/src/profile photos/f.jpg

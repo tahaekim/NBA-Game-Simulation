@@ -1,0 +1,21 @@
+Team	Wins	Losses	Ties
+Los Angels Lakers	4	0	0
+Boston Celticts	4	0	0
+Trabzonspor	4	0	0
+Detroit Pistons	3	1	0
+Cleveland Cavaliers	3	1	0
+Golden State Warriors	3	1	0
+Galatasaray	2	1	1
+Besiktas	2	0	2
+Houston Rockets	2	1	1
+Milwaukee Bucks	2	1	0
+Chicago Bulls	1	0	1
+Fenerbahce	0	4	0
+Indiana Pacers	0	1	0
+Washington Wizards	0	2	0
+Atlanta Hawks	0	1	0
+Toronto Raptors	0	3	1
+Oklahoma City Thunder	0	4	0
+New York Knicks	0	4	0
+Miami Heat	0	4	0
+LA Clippers	0	1	0

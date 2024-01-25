@@ -1,0 +1,59 @@
+=== Playoff Season Paused at Match 47 ===
+Indiana Pacers 77 - 140 Golden State Warriors
+LA Clippers 140 - 124 Fenerbahce
+Besiktas 149 - 126 Fenerbahce
+Galatasaray 128 - 99 Houston Rockets
+Besiktas 136 - 79 Atlanta Hawks
+Toronto Raptors 97 - 125 Chicago Bulls
+LA Clippers 149 - 105 Galatasaray
+Houston Rockets 121 - 134 LA Clippers
+Trabzonspor 121 - 128 Los Angels Lakers
+Indiana Pacers 80 - 96 Fenerbahce
+Chicago Bulls 119 - 114 Oklahoma City Thunder
+Los Angels Lakers 138 - 138 Boston Celticts
+Golden State Warriors 143 - 97 Oklahoma City Thunder
+Fenerbahce 111 - 114 Chicago Bulls
+New York Knicks 108 - 84 Detroit Pistons
+Detroit Pistons 88 - 92 Atlanta Hawks
+Detroit Pistons 85 - 118 Trabzonspor
+Detroit Pistons 80 - 99 Milwaukee Bucks
+Milwaukee Bucks 115 - 103 New York Knicks
+Miami Heat 137 - 145 LA Clippers
+Trabzonspor 95 - 114 Chicago Bulls
+Galatasaray 112 - 99 Milwaukee Bucks
+Atlanta Hawks 105 - 144 Washington Wizards
+Houston Rockets 126 - 91 Toronto Raptors
+Los Angels Lakers 142 - 92 Atlanta Hawks
+Milwaukee Bucks 103 - 136 Los Angels Lakers
+Indiana Pacers 93 - 122 Cleveland Cavaliers
+Toronto Raptors 95 - 99 Houston Rockets
+Galatasaray 112 - 97 Oklahoma City Thunder
+Indiana Pacers 93 - 118 Trabzonspor
+Cleveland Cavaliers 131 - 104 New York Knicks
+Toronto Raptors 94 - 125 Cleveland Cavaliers
+New York Knicks 120 - 105 Oklahoma City Thunder
+Boston Celticts 132 - 138 Miami Heat
+Besiktas 154 - 126 Miami Heat
+Washington Wizards 172 - 118 Miami Heat
+Boston Celticts 132 - 128 Besiktas
+Boston Celticts 144 - 145 Washington Wizards
+Cleveland Cavaliers 133 - 137 Golden State Warriors
+Golden State Warriors 147 - 145 Washington Wizards
+Playoffs Starts
+Quarter Finals
+Washington Wizards 140 - 122 Cleveland Cavaliers
+Washington Wizards wins!
+Chicago Bulls 129 - 118 Los Angels Lakers
+Chicago Bulls wins!
+Galatasaray 119 - 142 Besiktas
+Besiktas wins!
+LA Clippers 154 - 152 Golden State Warriors
+LA Clippers wins!
+Semi Finals
+Washington Wizards 141 - 123 Chicago Bulls
+Washington Wizards wins!
+LA Clippers 154 - 142 Besiktas
+LA Clippers wins!
+Final
+LA Clippers 149 - 134 Washington Wizards
+LA Clippers wins the tournement!
